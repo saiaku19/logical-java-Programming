@@ -11,5 +11,6 @@ class CircleArea
  r=sc.nextInt();
  area=pi*r*r;
  System.out.println("The area of a circle with radius is :");
+  sc.close();
   }
 }
